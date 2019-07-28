@@ -1,9 +1,9 @@
-## Immersion Day  - AWS Basics
+# Immersion Day  - AWS Basics
 
 Documentation on AWS Basic Immersion Day delivered by nClouds
 
 
-# EC2 Lab
+## EC2 Lab
 
 User Data to copy -
 
