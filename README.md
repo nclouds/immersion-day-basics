@@ -54,12 +54,10 @@ b) A Mac Laptop with recent version of Chrome, Firefox or Safari and a Text Edit
 
 User Data to copy -
 
-`
-#include
 
+    #include
+    https://s3.amazonaws.com/immersionday-labs/bootstrap.sh
 
-https://s3.amazonaws.com/immersionday-labs/bootstrap.sh
-`
 
 Instructions to convert .pem file to .ppk file for connecting via PuTTY
 
