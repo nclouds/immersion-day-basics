@@ -3,7 +3,7 @@
 Documentation on AWS Basic Immersion Day delivered by nClouds
 
 
-##Information for participants
+## Information for participants
 
 All participants should have 
 
@@ -14,7 +14,7 @@ Or
 b) A Mac Laptop with recent version of Chrome, Firefox or Safari and a Text Editor.
 
 
-##Agenda
+## Agenda
 
 9:00 AM - 9:15 AM: Welcome and Introduction
 
